@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+// Color
+$background: #FFFAEC;
+$creme: #F5ECD5;
+$green: #578E7E;
+$darckgray: #3D3D3D;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: $background;
+    color: $darckgray;
+}
